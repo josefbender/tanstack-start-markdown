@@ -1,3 +1,5 @@
-# TanStack Start + shadcn/ui
+# TanStack Start + Markdown = ❤️! 
 
-This is a template for a new TanStack Start project with React, TypeScript, and shadcn/ui.
+Using end-to-end type-safety is perfect for creating scalable content-driven websites... let's dive in!
+
+Full guide here: https://youtu.be/Cw8scPKibe8
